@@ -10,18 +10,6 @@ class WhereTo extends StatelessWidget {
       child: Container(
         padding: const EdgeInsets.symmetric(vertical: 5, horizontal: 10),
         decoration: BoxDecoration(
-            boxShadow: [
-              BoxShadow(
-                  color: Colors.grey.shade300,
-                  blurRadius: 1,
-                  spreadRadius: 1,
-                  offset: const Offset(0.5, 0)),
-              const BoxShadow(
-                  color: Colors.white,
-                  blurRadius: 10,
-                  spreadRadius: 1,
-                  offset: Offset(-4, -4))
-            ],
             borderRadius: BorderRadius.circular(40),
             border: Border.all(color: Colors.grey)),
         child: Row(

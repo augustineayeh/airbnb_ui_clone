@@ -1,4 +1,4 @@
-import 'package:airbnb_ui_clone/screens/explore/explore.dart';
+import 'package:airbnb_ui_clone/screens/book_room/book_room.dart';
 import 'package:flutter/material.dart';
 
 void main() {
@@ -14,7 +14,7 @@ class MyApp extends StatelessWidget {
       debugShowCheckedModeBanner: false,
       title: 'Airbnb UI Clone',
       theme: ThemeData(fontFamily: 'monsterat'),
-      home: const Explore(),
+      home: const BookRoom(),
     );
   }
 }

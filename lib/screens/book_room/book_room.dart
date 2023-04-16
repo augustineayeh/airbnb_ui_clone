@@ -57,8 +57,52 @@ class BookRoom extends StatelessWidget {
       body: SingleChildScrollView(
         child: Column(
           children: [
-            Image.asset(
-              'assets/images/home3 2.jpg',
+            Stack(
+              children: <Widget>[
+                Image.asset(
+                  'assets/images/home3 2.jpg',
+                ),
+                Positioned(
+                    top: 60,
+                    left: 20,
+                    child: Container(
+                      padding: const EdgeInsets.all(8),
+                      decoration: BoxDecoration(
+                          color: Colors.white,
+                          borderRadius: BorderRadius.circular(20)),
+                      child: Image.asset(
+                        'assets/images/back-2.png',
+                        height: 17,
+                      ),
+                    )),
+                Positioned(
+                  top: 60,
+                  right: 20,
+                  child: Row(
+                    children: [
+                      Container(
+                        padding: const EdgeInsets.all(5),
+                        decoration: BoxDecoration(
+                            color: Colors.white,
+                            borderRadius: BorderRadius.circular(20)),
+                        child: Image.asset(
+                          'assets/images/share.png',
+                          height: 23,
+                        ),
+                      ),
+                      const SizedBox(
+                        width: 10,
+                      ),
+                      Container(
+                          padding: const EdgeInsets.all(5),
+                          decoration: BoxDecoration(
+                              color: Colors.white,
+                              borderRadius: BorderRadius.circular(20)),
+                          child: const Icon(Icons.favorite_outline))
+                    ],
+                  ),
+                )
+              ],
             ),
             const SizedBox(
               height: 5,
@@ -96,7 +140,7 @@ class BookRoom extends StatelessWidget {
                         '3 reviews',
                         style: TextStyle(
                             fontSize: 17,
-                            fontWeight: FontWeight.w400,
+                            fontWeight: FontWeight.w500,
                             decoration: TextDecoration.underline),
                       )
                     ],

@@ -90,7 +90,7 @@ class Destinations extends StatelessWidget {
             ],
           ),
           const SizedBox(
-            height: 40,
+            height: 30,
           ),
           Column(
             crossAxisAlignment: CrossAxisAlignment.start,
@@ -171,7 +171,7 @@ class Destinations extends StatelessWidget {
             ],
           ),
           const SizedBox(
-            height: 40,
+            height: 30,
           ),
           Column(
             crossAxisAlignment: CrossAxisAlignment.start,
@@ -251,6 +251,9 @@ class Destinations extends StatelessWidget {
               )
             ],
           ),
+          const SizedBox(
+            height: 30,
+          )
         ],
       ),
     );

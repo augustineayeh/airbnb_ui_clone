@@ -9,7 +9,7 @@ class Destinations extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Padding(
-      padding: const EdgeInsets.only(top: 20, left: 30, right: 30),
+      padding: const EdgeInsets.only(top: 30, left: 30, right: 30),
       child: Column(
         children: [
           Column(

@@ -65,7 +65,20 @@ flutter:
 
 
   assets:
-    - assets/images/   
+    - assets/images/
+    - assets/fonts/ 
+
+  fonts:
+    - family: AirbnbCereal
+      fonts:
+        - asset: assets/fonts/AirbnbCerealBlack.ttf
+        - asset: assets/fonts/AirbnbCerealBold.ttf
+        - asset: assets/fonts/AirbnbCerealBook.ttf
+        - asset: assets/fonts/AirbnbCerealExtraBold.ttf
+        - asset: assets/fonts/AirbnbCerealLight.ttf
+        - asset: assets/fonts/AirbnbCerealMedium.ttf
+
+      
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware

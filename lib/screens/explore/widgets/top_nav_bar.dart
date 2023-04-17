@@ -10,7 +10,7 @@ class TopNavBar extends StatelessWidget {
       child: Column(
         children: [
           SizedBox(
-            height: 42,
+            height: 43,
             child: ListView(
               scrollDirection: Axis.horizontal,
               children: <Widget>[

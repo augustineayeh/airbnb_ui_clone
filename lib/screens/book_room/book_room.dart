@@ -7,7 +7,7 @@ class BookRoom extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       bottomNavigationBar: SizedBox(
-        height: 95,
+        height: 96,
         child: BottomAppBar(
             child: Padding(
           padding: const EdgeInsets.only(top: 15, left: 30, right: 30),
@@ -117,7 +117,7 @@ class BookRoom extends StatelessWidget {
                     style: TextStyle(fontSize: 30, fontWeight: FontWeight.w500),
                   ),
                   const SizedBox(
-                    height: 20,
+                    height: 15,
                   ),
                   Row(
                     children: const [
@@ -160,7 +160,7 @@ class BookRoom extends StatelessWidget {
                     color: Colors.grey,
                   ),
                   const SizedBox(
-                    height: 20,
+                    height: 15,
                   ),
                   Row(
                     mainAxisAlignment: MainAxisAlignment.spaceBetween,
@@ -182,57 +182,41 @@ class BookRoom extends StatelessWidget {
                       )
                     ],
                   ),
-                  Row(
-                    children: const [
-                      Text('2 guests',
-                          style: TextStyle(
-                              fontSize: 17, fontWeight: FontWeight.w400)),
-                      SizedBox(
-                        width: 10,
-                      ),
-                      Text('1 bedroom',
-                          style: TextStyle(
-                              fontSize: 17, fontWeight: FontWeight.w400)),
-                      SizedBox(
-                        width: 10,
-                      ),
-                      Text('1 bed',
-                          style: TextStyle(
-                              fontSize: 17, fontWeight: FontWeight.w400)),
-                    ],
-                  ),
+                  const Text('2 guests • 1 bedroom • 1 bed',
+                      style:
+                          TextStyle(fontSize: 17, fontWeight: FontWeight.w400)),
                   const Text('1 private bath',
                       style:
                           TextStyle(fontSize: 17, fontWeight: FontWeight.w400)),
                   const SizedBox(
-                    height: 30,
+                    height: 25,
                   ),
                   const Divider(
                     height: 1,
                     color: Colors.grey,
                   ),
                   const SizedBox(
-                    height: 30,
+                    height: 20,
                   ),
                   Row(
                     children: [
                       Image.asset(
                         'assets/images/door.png',
-                        height: 30,
-                        width: 30,
+                        height: 40,
+                        width: 40,
                       ),
                       const SizedBox(
                         width: 15,
                       ),
                       const Text('Self check-in',
                           style: TextStyle(
-                              fontSize: 17, fontWeight: FontWeight.w500)),
+                              fontSize: 20, fontWeight: FontWeight.w500)),
                     ],
                   ),
                   Row(
                     children: const [
                       SizedBox(
-                        width: 45,
+                        width: 55,
                       ),
                       Text('Check yourself in with the keyboard',
                           style: TextStyle(

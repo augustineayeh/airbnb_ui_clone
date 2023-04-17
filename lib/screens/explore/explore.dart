@@ -120,7 +120,17 @@ class Explore extends StatelessWidget {
       body: SafeArea(
           child: SingleChildScrollView(
         child: Column(
-          children: [const WhereTo(), const TopNavBar(), Destinations()],
+          children: [
+            const WhereTo(),
+            const TopNavBar(),
+            const SizedBox(
+              height: 20,
+            ),
+            const Divider(
+              height: 0,
+            ),
+            Destinations()
+          ],
         ),
       )),
     );

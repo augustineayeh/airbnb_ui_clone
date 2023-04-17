@@ -13,7 +13,7 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
       title: 'Airbnb UI Clone',
-      theme: ThemeData(fontFamily: 'monsterat'),
+      theme: ThemeData(fontFamily: 'AirbnbCereal'),
       home: const BookRoom(),
     );
   }

@@ -8,8 +8,9 @@ class WhereTo extends StatelessWidget {
     return Padding(
       padding: const EdgeInsets.symmetric(horizontal: 30.0),
       child: Container(
-        padding: const EdgeInsets.symmetric(vertical: 8, horizontal: 20),
+        padding: const EdgeInsets.symmetric(vertical: 0, horizontal: 20),
         decoration: BoxDecoration(
+            boxShadow: const [],
             borderRadius: BorderRadius.circular(40),
             border: Border.all(color: Colors.grey, width: 0.2)),
         child: Row(
@@ -22,12 +23,18 @@ class WhereTo extends StatelessWidget {
                   width: 5,
                 ),
                 Column(
-                  crossAxisAlignment: CrossAxisAlignment.start,
                   children: const [
-                    Text(
-                      'Where to?',
-                      style:
-                          TextStyle(fontWeight: FontWeight.w500, fontSize: 18),
+                    SizedBox(
+                      width: 230,
+                      child: TextField(
+                        maxLines: 1,
+                        decoration: InputDecoration(
+                          border: InputBorder.none,
+                          hintText: 'Where to?',
+                          hintStyle: TextStyle(
+                              color: Colors.black, fontWeight: FontWeight.w500),
+                        ),
+                      ),
                     ),
                     Text(
                       'Anywhere • Any week • Add guests',

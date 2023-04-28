@@ -1,5 +1,5 @@
 # airbnb_ui_clone
-Airbnb UI clone built with Flutter
+Airbnb UI clone built with Flutter.
 ## Screens
 | Explore Screen | Explore Screen |  Book Room Screen |
 :----------:|:-------------:|:--------------:|

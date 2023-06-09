@@ -6,19 +6,15 @@
 	<dict>
 		<key>Resources/AppIcon.icns</key>
 		<data>
-		URS7ZMjS6R2b/EKu5Z1xZIypGck=
+		aAxGg0Q+dQoQhfAk9AHVCAev338=
 		</data>
 		<key>Resources/Assets.car</key>
 		<data>
-		rfkYTTe+/RTHXBKLiKowxex6K/c=
+		QRU3/LZV3Ti5yJ343NbUp08Khhk=
 		</data>
-		<key>Resources/Base.lproj/MainMenu.nib/keyedobjects-101300.nib</key>
+		<key>Resources/Base.lproj/MainMenu.nib</key>
 		<data>
 		AbxcuZLVy//ekncQc0KEajTrk3Q=
-		</data>
-		<key>Resources/Base.lproj/MainMenu.nib/keyedobjects.nib</key>
-		<data>
-		L/l3yba0vp+dW4wbFAMGwDiISZU=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -27,19 +23,19 @@
 		<dict>
 			<key>cdhash</key>
 			<data>
-			ePxdkAEFXxORlfSlFUOidNvPU48=
+			d/NLlNJCxd9MPiL1HG8ieGpfClE=
 			</data>
 			<key>requirement</key>
-			<string>cdhash H"78fc5d9001055f139195f4a51543a274dbcf538f"</string>
+			<string>cdhash H"77f34b94d242c5df4c3e22f51c6f22786a5f0a51"</string>
 		</dict>
 		<key>Frameworks/FlutterMacOS.framework</key>
 		<dict>
 			<key>cdhash</key>
 			<data>
-			hoRgaZ4dbye6lI9tmTEMQsXewKw=
+			xlZ4A3Rr2NiZkzXbTYxLdp1wIqM=
 			</data>
 			<key>requirement</key>
-			<string>cdhash H"868460699e1d6f27ba948f6d99310c42c5dec0ac"</string>
+			<string>cdhash H"c6567803746bd8d8999335db4d8c4b769d7022a3"</string>
 		</dict>
 		<key>Frameworks/libswiftAppKit.dylib</key>
 		<dict>
@@ -198,28 +194,21 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			mnw/86rBhdpr28A9GFSr/xwLnYgcKRhSPRhn0wpyVWQ=
+			cmkXXoTx+ZUjFC50oDL4Cmb6f++oBA9wPejlIra72Gc=
 			</data>
 		</dict>
 		<key>Resources/Assets.car</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			R7OFtpJkkNc1UeCYFSF3+1UrJJZD2fWsOkcV9KEHpoE=
+			EuJWQbOeKwc3a4+9WzZlGBFiDGAjKABusxYRiJ3iw60=
 			</data>
 		</dict>
-		<key>Resources/Base.lproj/MainMenu.nib/keyedobjects-101300.nib</key>
+		<key>Resources/Base.lproj/MainMenu.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
 			wnS3v5Xgeec5OTd9IPvIW45dgp73CCs/W/vGyVE17TE=
-			</data>
-		</dict>
-		<key>Resources/Base.lproj/MainMenu.nib/keyedobjects.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			wsjlKjBMa/hv2HnWv537rasRyE/yRPMnk1vI7xgde78=
 			</data>
 		</dict>
 	</dict>

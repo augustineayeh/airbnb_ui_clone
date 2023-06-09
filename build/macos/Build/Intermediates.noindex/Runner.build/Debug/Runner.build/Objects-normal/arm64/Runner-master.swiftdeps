@@ -1,8 +1,8 @@
 version: "Apple Swift version 5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)"
-options: "6d0da251515439a39a1bef9a114a20a6df7ef89d743539b471663fc3a71705e4"
-build_start_time: [1681401442, 315647125]
-build_end_time: [1681401444, 52543163]
+options: "f662cb4a0b1a3085340bbe55a4435aaa695bd74951129332dfe5c50d3215eb5d"
+build_start_time: [1686315348, 974761962]
+build_end_time: [1686315351, 124640941]
 inputs:
-  "/Users/Aug/my codes/flutter projects/airbnb_ui_clone/macos/Flutter/GeneratedPluginRegistrant.swift": [1681401433, 530738353]
+  "/Users/Aug/my codes/flutter projects/airbnb_ui_clone/macos/Flutter/GeneratedPluginRegistrant.swift": [1686315342, 249802112]
   "/Users/Aug/my codes/flutter projects/airbnb_ui_clone/macos/Runner/AppDelegate.swift": [1668016546, 0]
   "/Users/Aug/my codes/flutter projects/airbnb_ui_clone/macos/Runner/MainFlutterWindow.swift": [1668016546, 0]

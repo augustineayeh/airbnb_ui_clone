@@ -1,4 +1,4 @@
-import 'package:airbnb_ui_clone/screens/explore/explore.dart';
+import 'package:airbnb_ui_clone/ui/screens/explore/explore.dart';
 import 'package:flutter/material.dart';
 
 void main() {

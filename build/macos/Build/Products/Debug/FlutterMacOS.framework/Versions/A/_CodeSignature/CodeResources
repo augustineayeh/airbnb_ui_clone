@@ -10,17 +10,13 @@
 		</data>
 		<key>Resources/icudtl.dat</key>
 		<data>
-		q5acp6rOkQ+ckG1e10c6ecrMr8U=
+		nMTZkkm9uooDDa8A2YJSyK73oP8=
 		</data>
 	</dict>
 	<key>files2</key>
 	<dict>
 		<key>Headers/FlutterAppDelegate.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			64crwqZS4rtX/1zH6bPcVzDjNC8=
-			</data>
 			<key>hash2</key>
 			<data>
 			h6cZ8GAYv0IUaiv1+WnRSRn9SPxqTUR9r96JyGlWxT4=
@@ -28,10 +24,6 @@
 		</dict>
 		<key>Headers/FlutterBinaryMessenger.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			Qj6OtkzORWI38PIdXyyJc+eribM=
-			</data>
 			<key>hash2</key>
 			<data>
 			4quj8X+HDK/AVExMhTcqLpIRxe/OjnnNTiON5KEv3hI=
@@ -39,10 +31,6 @@
 		</dict>
 		<key>Headers/FlutterChannels.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			bhEGVRctQGJxYtCb3asK0k4Iq74=
-			</data>
 			<key>hash2</key>
 			<data>
 			IAJwMIrTpwHKIiP2tBsYBUQe8B8qT6nLVEQzZLi+yFc=
@@ -50,43 +38,27 @@
 		</dict>
 		<key>Headers/FlutterCodecs.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			O4jh4GUQe4YBT6YjVMXNbQMbalk=
-			</data>
 			<key>hash2</key>
 			<data>
-			yML7JaB7PwUwr6A9dDtlf6CCeMLjzd9Vja1r4Hkngvs=
+			Y1JL+Rn5pGoCA+qXfiSPa8dGiXxlpiHY4NzmmjVEuaY=
 			</data>
 		</dict>
 		<key>Headers/FlutterDartProject.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			UtnE69qCl+d002RXYkRDCh2qDwY=
-			</data>
 			<key>hash2</key>
 			<data>
-			pr8QCnZoO5kHSBjleNHyioJF2Y45K7iOFmFxFKF7aYo=
+			UUA81/YVZRZvoxkaY9Pf9UDdNn44IYhVTWQmEyrtRX4=
 			</data>
 		</dict>
 		<key>Headers/FlutterEngine.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			ddp8iH9FXBNDjXhP016xeO6vCLU=
-			</data>
 			<key>hash2</key>
 			<data>
-			PRRAkGpupU5CzEl1aJijYrA3RHSaKOLrly+TUbc/4ME=
+			AYKLQN/aa9sGu5AVPDRyoSkmjRJWOXbk3tYB88PMU14=
 			</data>
 		</dict>
 		<key>Headers/FlutterMacOS.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			iBpZGFVguw+ecnl3wn+Os1y/PIY=
-			</data>
 			<key>hash2</key>
 			<data>
 			/NO18HNvLW3lAVq6zY5wdulebohGLvJF0K8pj0f4zoA=
@@ -94,21 +66,13 @@
 		</dict>
 		<key>Headers/FlutterMacros.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			I9N4VAVhaoHjYjsRdmqSzEYJgN4=
-			</data>
 			<key>hash2</key>
 			<data>
-			7FrU4ZPRKob2HMUIRVBrtZ/QBRs2QL0JUN4oJmEaZs0=
+			IEPKCkPf/10aPZiU0dKCx8/ZoIfvkjycwKB4vH8mwG4=
 			</data>
 		</dict>
 		<key>Headers/FlutterPlatformViews.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			1+iRwnU6jf2UGVtBR6Cs+qV6XHY=
-			</data>
 			<key>hash2</key>
 			<data>
 			XzVAwtEmkEc3RhQbtAlhdf/01qrTot2o1cxhWJzYXbM=
@@ -116,10 +80,6 @@
 		</dict>
 		<key>Headers/FlutterPluginMacOS.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			hKayVdbBwzE884OPud18h6QsajI=
-			</data>
 			<key>hash2</key>
 			<data>
 			En24VwKjAAbG1fJvINCeIPgiwqjksfCeOVT/eFrSAb0=
@@ -127,21 +87,13 @@
 		</dict>
 		<key>Headers/FlutterPluginRegistrarMacOS.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			3QVvGeIRtXFlVW3lfHS56Z8gZv0=
-			</data>
 			<key>hash2</key>
 			<data>
-			nTvJBfgYtXEvruiIF2hO9zBpGco4t0CgIP25Eb3e39I=
+			RNsQy4ge9yuM8NPchNxs3CMV3fjvf+Sbe3+zJphhvB0=
 			</data>
 		</dict>
 		<key>Headers/FlutterTexture.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			yBJovGku2dvjTDXp2km51wNc8yM=
-			</data>
 			<key>hash2</key>
 			<data>
 			VkMu2v4CZSBLhGWCJdxdAPzVFOgUvVyyxpdwmfAnWrY=
@@ -149,21 +101,13 @@
 		</dict>
 		<key>Headers/FlutterViewController.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			73yRPO6bKNlh9EaWp29PJcRq1Z4=
-			</data>
 			<key>hash2</key>
 			<data>
-			hvTcLkGVkI9PXzYA01nKwb8v5s0+yHbC1NWwAYukJMw=
+			BbrMSweTfBJF1dArT3IotK/ivjuNOTYp5Azch5m3PIQ=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			RS15t13cXfIpKFijD9yaDymFch4=
-			</data>
 			<key>hash2</key>
 			<data>
 			wgsdtVh6ndm95Zc35nrBbFsqLz3fGHr6DYyHgR8URbE=
@@ -171,10 +115,6 @@
 		</dict>
 		<key>Resources/Info.plist</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			jqU87p/MJtpIAzfj0wm59ZtbI3o=
-			</data>
 			<key>hash2</key>
 			<data>
 			aDYD1VCbX1UQIZikBOHcRjPXPmzUntLnd7K2cjnvfoQ=
@@ -182,13 +122,9 @@
 		</dict>
 		<key>Resources/icudtl.dat</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			q5acp6rOkQ+ckG1e10c6ecrMr8U=
-			</data>
 			<key>hash2</key>
 			<data>
-			sA+D9pONLsc1rI+XDHefj/KAY7kac9Ait6lUu4UjHDg=
+			rETMw/Yb9jC7IPuAQ9hs/kyJldBrRgCEQA20XXBJezA=
 			</data>
 		</dict>
 	</dict>

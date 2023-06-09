@@ -8,12 +8,12 @@ class Destinations extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return const Padding(
-      padding: EdgeInsets.only(top: 30, left: 30, right: 30),
+      padding: EdgeInsets.only(top: 10, left: 30, right: 30),
       child: Column(
         children: [
           Divider(),
           SizedBox(
-            height: 10,
+            height: 20,
           ),
           Destination(
               imageUrl: 'assets/images/abiansemal.webp',
@@ -26,22 +26,22 @@ class Destinations extends StatelessWidget {
             height: 30,
           ),
           Destination(
-              imageUrl: 'assets/images/spain.webp',
-              name: 'Tias, Spain',
-              distance: '969',
-              rating: '4.03',
-              price: '\$199',
-              duration: 'Dec 12-16'),
-          SizedBox(
-            height: 30,
-          ),
-          Destination(
               imageUrl: 'assets/images/LakeArrowhead.webp',
               name: 'Lake Arrowhead, California, US',
               distance: '2,029',
               rating: '4.57',
               price: '\$245',
               duration: 'Sept 2-7'),
+          SizedBox(
+            height: 30,
+          ),
+          Destination(
+              imageUrl: 'assets/images/spain.webp',
+              name: 'Tias, Spain',
+              distance: '969',
+              rating: '4.03',
+              price: '\$199',
+              duration: 'Dec 12-16'),
           SizedBox(
             height: 30,
           ),

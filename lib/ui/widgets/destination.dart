@@ -71,7 +71,7 @@ class DestinationWidget extends StatelessWidget {
                 fontSize: 16, fontWeight: FontWeight.w400, color: Colors.grey)),
         Row(
           children: [
-            Text(destination.price,
+            Text('\$${destination.price}',
                 style: const TextStyle(
                   fontSize: 16,
                   fontWeight: FontWeight.w500,

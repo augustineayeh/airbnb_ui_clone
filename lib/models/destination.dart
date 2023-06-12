@@ -22,7 +22,7 @@ List<Destination> destinations = [
       name: 'Abiansemal, Indodesia',
       distance: '769',
       rating: '4.87',
-      price: '\$360',
+      price: '361',
       duration: 'Jul 2-7'),
   Destination(
       imageUrl: 'assets/images/Santorini.webp',

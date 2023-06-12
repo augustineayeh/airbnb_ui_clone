@@ -10,12 +10,12 @@ class Explore extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      body: SafeArea(
+      body: const SafeArea(
           child: SingleChildScrollView(
         child: Column(
           children: [
-            const SearchfField(),
-            const Tabs(),
+            SearchfField(),
+            Tabs(),
             Destinations(),
           ],
         ),

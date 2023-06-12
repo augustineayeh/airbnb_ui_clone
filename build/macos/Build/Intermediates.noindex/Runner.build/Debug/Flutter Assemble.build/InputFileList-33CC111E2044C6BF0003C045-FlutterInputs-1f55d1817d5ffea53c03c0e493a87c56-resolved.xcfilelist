@@ -39,7 +39,7 @@
 /Users/Aug/.pub-cache/hosted/pub.dev/fake_async-1.3.1/LICENSE
 /Users/Aug/.pub-cache/hosted/pub.dev/flutter_lints-2.0.1/LICENSE
 /Users/Aug/.pub-cache/hosted/pub.dev/js-0.6.7/LICENSE
-/Users/Aug/.pub-cache/hosted/pub.dev/lints-2.1.0/LICENSE
+/Users/Aug/.pub-cache/hosted/pub.dev/lints-2.0.1/LICENSE
 /Users/Aug/.pub-cache/hosted/pub.dev/matcher-0.12.15/LICENSE
 /Users/Aug/.pub-cache/hosted/pub.dev/material_color_utilities-0.2.0/LICENSE
 /Users/Aug/.pub-cache/hosted/pub.dev/material_color_utilities-0.2.0/lib/blend/blend.dart
@@ -715,7 +715,7 @@
 /Users/Aug/Developer/flutter/packages/flutter_tools/lib/src/build_system/targets/common.dart
 /Users/Aug/Developer/flutter/packages/flutter_tools/lib/src/build_system/targets/icon_tree_shaker.dart
 /Users/Aug/Developer/flutter/packages/flutter_tools/lib/src/build_system/targets/macos.dart
-/Users/Aug/my codes/flutter projects/airbnb_ui_clone/DOES_NOT_EXIST_RERUN_FOR_WILDCARD133618145
+/Users/Aug/my codes/flutter projects/airbnb_ui_clone/DOES_NOT_EXIST_RERUN_FOR_WILDCARD973016999
 /Users/Aug/my codes/flutter projects/airbnb_ui_clone/assets/fonts/AirbnbCerealBlack.ttf
 /Users/Aug/my codes/flutter projects/airbnb_ui_clone/assets/fonts/AirbnbCerealBold.ttf
 /Users/Aug/my codes/flutter projects/airbnb_ui_clone/assets/fonts/AirbnbCerealBook.ttf
@@ -728,11 +728,13 @@
 /Users/Aug/my codes/flutter projects/airbnb_ui_clone/assets/images/airbnb.png
 /Users/Aug/my codes/flutter projects/airbnb_ui_clone/assets/images/art.png
 /Users/Aug/my codes/flutter projects/airbnb_ui_clone/assets/images/back-2.png
+/Users/Aug/my codes/flutter projects/airbnb_ui_clone/assets/images/beachfront.jpeg
 /Users/Aug/my codes/flutter projects/airbnb_ui_clone/assets/images/cactus.png
 /Users/Aug/my codes/flutter projects/airbnb_ui_clone/assets/images/cave.png
 /Users/Aug/my codes/flutter projects/airbnb_ui_clone/assets/images/chat.png
 /Users/Aug/my codes/flutter projects/airbnb_ui_clone/assets/images/dialogue.png
 /Users/Aug/my codes/flutter projects/airbnb_ui_clone/assets/images/door.png
+/Users/Aug/my codes/flutter projects/airbnb_ui_clone/assets/images/dubai.webp
 /Users/Aug/my codes/flutter projects/airbnb_ui_clone/assets/images/filter.png
 /Users/Aug/my codes/flutter projects/airbnb_ui_clone/assets/images/fire.png
 /Users/Aug/my codes/flutter projects/airbnb_ui_clone/assets/images/home.webp
@@ -745,22 +747,26 @@
 /Users/Aug/my codes/flutter projects/airbnb_ui_clone/assets/images/house3.webp
 /Users/Aug/my codes/flutter projects/airbnb_ui_clone/assets/images/house4.webp
 /Users/Aug/my codes/flutter projects/airbnb_ui_clone/assets/images/island.png
+/Users/Aug/my codes/flutter projects/airbnb_ui_clone/assets/images/lakes.jpeg
 /Users/Aug/my codes/flutter projects/airbnb_ui_clone/assets/images/love.png
 /Users/Aug/my codes/flutter projects/airbnb_ui_clone/assets/images/man.jpeg
 /Users/Aug/my codes/flutter projects/airbnb_ui_clone/assets/images/man2.jpeg
 /Users/Aug/my codes/flutter projects/airbnb_ui_clone/assets/images/palm-tree.png
+/Users/Aug/my codes/flutter projects/airbnb_ui_clone/assets/images/pool.jpeg
 /Users/Aug/my codes/flutter projects/airbnb_ui_clone/assets/images/room.webp
+/Users/Aug/my codes/flutter projects/airbnb_ui_clone/assets/images/rooms.jpeg
 /Users/Aug/my codes/flutter projects/airbnb_ui_clone/assets/images/share.png
+/Users/Aug/my codes/flutter projects/airbnb_ui_clone/assets/images/spain.webp
 /Users/Aug/my codes/flutter projects/airbnb_ui_clone/assets/images/swimming-pool.png
 /Users/Aug/my codes/flutter projects/airbnb_ui_clone/assets/images/user-2.png
+/Users/Aug/my codes/flutter projects/airbnb_ui_clone/assets/images/views.jpeg
 /Users/Aug/my codes/flutter projects/airbnb_ui_clone/assets/images/villa.png
 /Users/Aug/my codes/flutter projects/airbnb_ui_clone/lib/main.dart
-/Users/Aug/my codes/flutter projects/airbnb_ui_clone/lib/screens/book_room/book_room.dart
-/Users/Aug/my codes/flutter projects/airbnb_ui_clone/lib/screens/explore/explore.dart
-/Users/Aug/my codes/flutter projects/airbnb_ui_clone/lib/screens/explore/widgets.dart
-/Users/Aug/my codes/flutter projects/airbnb_ui_clone/lib/screens/explore/widgets/destinations.dart
-/Users/Aug/my codes/flutter projects/airbnb_ui_clone/lib/screens/explore/widgets/location.dart
-/Users/Aug/my codes/flutter projects/airbnb_ui_clone/lib/screens/explore/widgets/tab_bar.dart
-/Users/Aug/my codes/flutter projects/airbnb_ui_clone/lib/screens/explore/widgets/top_nav_bar.dart
-/Users/Aug/my codes/flutter projects/airbnb_ui_clone/lib/screens/explore/widgets/where_to.dart
+/Users/Aug/my codes/flutter projects/airbnb_ui_clone/lib/ui/screens/explore/explore.dart
+/Users/Aug/my codes/flutter projects/airbnb_ui_clone/lib/ui/screens/explore/widgets/destinations.dart
+/Users/Aug/my codes/flutter projects/airbnb_ui_clone/lib/ui/screens/explore/widgets/models.dart
+/Users/Aug/my codes/flutter projects/airbnb_ui_clone/lib/ui/screens/explore/widgets/search_field.dart
+/Users/Aug/my codes/flutter projects/airbnb_ui_clone/lib/ui/screens/explore/widgets/tabs.dart
+/Users/Aug/my codes/flutter projects/airbnb_ui_clone/lib/ui/screens/explore/widgets/widgets.dart
+/Users/Aug/my codes/flutter projects/airbnb_ui_clone/lib/ui/widgets/tab_bar.dart
 /Users/Aug/my codes/flutter projects/airbnb_ui_clone/pubspec.yaml

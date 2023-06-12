@@ -1,28 +1,14 @@
 // ignore_for_file: public_member_api_docs, sort_constructors_first
+import 'package:airbnb_ui_clone/models/destination.dart';
 import 'package:flutter/material.dart';
 
-class Destination extends StatefulWidget {
-  final String imageUrl;
-  final String name;
-  final String distance;
-  final String rating;
-  final String price;
-  final String duration;
-  const Destination({
-    Key? key,
-    required this.imageUrl,
-    required this.name,
-    required this.distance,
-    required this.rating,
-    required this.price,
-    required this.duration,
-  }) : super(key: key);
+class DestinationWidget extends StatelessWidget {
+  final Destination destination;
+  final int index;
+  const DestinationWidget(
+      {Key? key, required this.destination, required this.index})
+      : super(key: key);
 
-  @override
-  State<Destination> createState() => _LocationState();
-}
-
-class _LocationState extends State<Destination> {
   @override
   Widget build(BuildContext context) {
     return Column(
@@ -34,7 +20,7 @@ class _LocationState extends State<Destination> {
             decoration: BoxDecoration(
               borderRadius: BorderRadius.circular(15),
               image: DecorationImage(
-                  image: AssetImage(widget.imageUrl), fit: BoxFit.cover),
+                  image: AssetImage(destination.imageUrl), fit: BoxFit.cover),
             ),
           ),
           const Positioned(
@@ -54,7 +40,7 @@ class _LocationState extends State<Destination> {
           mainAxisAlignment: MainAxisAlignment.spaceBetween,
           children: [
             Text(
-              widget.name,
+              destination.name,
               style: const TextStyle(fontSize: 20, fontWeight: FontWeight.w500),
             ),
             Row(
@@ -66,7 +52,7 @@ class _LocationState extends State<Destination> {
                 const SizedBox(
                   width: 5,
                 ),
-                Text(widget.rating,
+                Text(destination.rating,
                     style: const TextStyle(
                       fontSize: 16,
                       fontWeight: FontWeight.w400,
@@ -76,16 +62,16 @@ class _LocationState extends State<Destination> {
           ],
         ),
         Text(
-          '${widget.distance} kilometers',
+          '${destination.distance} kilometers',
           style: const TextStyle(
               fontSize: 16, fontWeight: FontWeight.w400, color: Colors.grey),
         ),
-        Text(widget.duration,
+        Text(destination.duration,
             style: const TextStyle(
                 fontSize: 16, fontWeight: FontWeight.w400, color: Colors.grey)),
         Row(
           children: [
-            Text(widget.price,
+            Text(destination.price,
                 style: const TextStyle(
                   fontSize: 16,
                   fontWeight: FontWeight.w500,

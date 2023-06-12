@@ -11,10 +11,9 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      debugShowCheckedModeBanner: false,
-      title: 'Airbnb UI Clone',
-      theme: ThemeData(fontFamily: 'AirbnbCereal'),
-      home: const Explore(),
-    );
+        debugShowCheckedModeBanner: false,
+        title: 'Airbnb UI Clone',
+        theme: ThemeData(fontFamily: 'AirbnbCereal'),
+        home: const Explore());
   }
 }

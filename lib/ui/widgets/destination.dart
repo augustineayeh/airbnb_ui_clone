@@ -52,7 +52,7 @@ class DestinationWidget extends StatelessWidget {
                 const SizedBox(
                   width: 5,
                 ),
-                Text(destination.rating,
+                Text(destination.rating.toString(),
                     style: const TextStyle(
                       fontSize: 16,
                       fontWeight: FontWeight.w400,

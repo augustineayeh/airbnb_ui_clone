@@ -1,5 +1,6 @@
 // create nav bar properly later
 
+import 'package:airbnb_ui_clone/ui/screens/otp/otp_send_screen.dart';
 import 'package:flutter/material.dart';
 
 import 'widgets/widgets.dart';
@@ -148,22 +149,31 @@ class Explore extends StatelessWidget {
               const SizedBox(
                 width: 20,
               ),
-              Column(
-                children: [
-                  Image.asset(
-                    'assets/images/user-2.png',
-                    height: 20,
-                    width: 20,
-                  ),
-                  const SizedBox(
-                    height: 5,
-                  ),
-                  const Text(
-                    'Profile',
-                    style: TextStyle(
-                        color: Colors.grey, fontWeight: FontWeight.w500),
-                  )
-                ],
+              GestureDetector(
+                onTap: () {
+                  Navigator.push(
+                    context,
+                    MaterialPageRoute(
+                        builder: (_) => const OtpSendScreen()),
+                  );
+                },
+                child: Column(
+                  children: [
+                    Image.asset(
+                      'assets/images/user-2.png',
+                      height: 20,
+                      width: 20,
+                    ),
+                    const SizedBox(
+                      height: 5,
+                    ),
+                    const Text(
+                      'Profile',
+                      style: TextStyle(
+                          color: Colors.grey, fontWeight: FontWeight.w500),
+                    )
+                  ],
+                ),
               ),
             ],
           ),
